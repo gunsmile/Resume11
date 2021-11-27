@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Digital Resume
 
 You can use the [editor on GitHub](https://github.com/gunsmile/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About me
+ สวัสดีค่ะ ฉันชื่อกมลลักษณ์ เหว่ารัมย์ กำลังศึกษาอยู่ที่มหาวิทยาลัยธรรมศาสตร์ สหวิทยาการ หลักสูตรวิทยาศาสตร์และนวัตกรรมข้อมูล
 ## Header 2
 ### Header 3
 
